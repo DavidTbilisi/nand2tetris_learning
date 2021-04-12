@@ -25,7 +25,7 @@ AND + NOT
 ![Or gate](https://theorycircuit.com/wp-content/uploads/2017/05/or-gate-truth-table.png)
 ### Xor
 
-(YouTube)[https://youtu.be/gI-qXk7XojA?t=437]
+[YouTube](https://youtu.be/gI-qXk7XojA?t=437)
 ![xor gate](https://theorycircuit.com/wp-content/uploads/2017/05/xor-gate-truth-table.png)
 ### Mux
 ### Dmux
