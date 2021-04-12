@@ -47,9 +47,9 @@ HDL - Hardware Discribe Language
 ---
 
 ## კვირა 2 - Arithmetic-Logic Unit
-დადებითი - ![](https://render.githubusercontent.com/render/math?math=0%20...%202%5E%7Bn-1%7D-1&mode=inline) 
+დადებითი - ![Formula](https://render.githubusercontent.com/render/math?math=0%20...%202%5E%7Bn-1%7D-1&mode=inline) 
 
-უარყოფითი - ![](https://render.githubusercontent.com/render/math?math=0%20...%20-2%5E%7Bn-1%7D&mode=inline)
+უარყოფითი - ![Formula](https://render.githubusercontent.com/render/math?math=0%20...%20-2%5E%7Bn-1%7D&mode=inline)
 
 y-x = y + (-x) \
 გამოკლების მთავარი იდეა: \
