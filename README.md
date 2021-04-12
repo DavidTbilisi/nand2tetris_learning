@@ -17,11 +17,11 @@ AND + NOT
 ![Not gate](https://theorycircuit.com/wp-content/uploads/2017/05/not-gate-truth-table.png)
 ### And
 
-(YouTube)[https://youtu.be/gI-qXk7XojA?t=283]
+[YouTube](https://youtu.be/gI-qXk7XojA?t=283)
 ![And gate](https://theorycircuit.com/wp-content/uploads/2017/05/and-gate-truth-table.png)
 ### Or
 
-(YouTube)[https://youtu.be/gI-qXk7XojA?t=347]
+[YouTube](https://youtu.be/gI-qXk7XojA?t=347)
 ![Or gate](https://theorycircuit.com/wp-content/uploads/2017/05/or-gate-truth-table.png)
 ### Xor
 
